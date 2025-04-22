@@ -45,7 +45,7 @@ A modern and feature-rich task management application built with React, TypeScri
 
 1. Clone the repository
 ```bash
-git clone https://github.com/sumancoder-cloud/taskmaster.git
+git clone [https://github.com/sumancoder-cloud/taskmaster.git](https://github.com/sumancoder-cloud/TO-DO-LIST)
 cd taskmaster
 ```
 
